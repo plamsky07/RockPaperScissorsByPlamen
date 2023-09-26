@@ -1,4 +1,8 @@
 import random
+from colorama import init
+from termcolor import colored
+
+init()
 
 rock = 'Rock'
 
